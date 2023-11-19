@@ -1,8 +1,8 @@
 public class Employee {
-    private double baseSalary;
-    private int bonusHours;
-    private double sales;
-    private String name;
+     double baseSalary;
+     int bonusHours;
+     double sales;
+     String name;
 
     public Employee(double baseSalary, int bonusHours, double sales, String name) {
         this.baseSalary = baseSalary;
